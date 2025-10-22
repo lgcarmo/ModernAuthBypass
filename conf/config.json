@@ -1,0 +1,4 @@
+{
+    "smtp_url": "smtp-mail.outlook.com",
+    "smtp_port": "587"
+}

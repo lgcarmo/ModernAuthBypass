@@ -9,7 +9,7 @@
 ## Descrição
 Este repositório contém um script em Python para verificar se servidores Office 365 (ou servidores compatíveis) aceitam autenticações via protocolos legados e, opcionalmente, realizar testes de força bruta controlados. O objetivo é ajudar equipes de segurança a identificar pontos cegos onde *Modern Authentication* pode ser contornado via clientes antigos ou protocolos legados.
 
-Script principal: `ModerAuthBypass_V2.py`. :contentReference[oaicite:1]{index=1}
+Script principal: `ModerAuthBypass_V2.py`
 
 ---
 
